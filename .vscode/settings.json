@@ -1,0 +1,11 @@
+{
+	"sqltools.connections": [
+		{
+			"database": "./database/adonis.sqlite",
+			"dialect": "SQLite",
+			"isActive": true,
+			"isConnected": true,
+			"name": "adonis"
+		}
+	]
+}
